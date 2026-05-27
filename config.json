@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsverify",
+        "uuid": 13594944,
+        "checksum": "hc310d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
